@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **lg5122003@gmail.com**
 
+- ⚡ Fun fact **I bat with earphones on**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/luv_guptaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luv_guptaa_" height="30" width="40" /></a>
