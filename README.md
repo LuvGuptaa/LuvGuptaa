@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React & Go**
 
-- 📫 How to reach me **lg5122003@gmail.com**
+- 📫 How to reach me **luv.gupta512@gmail.com**
 
 - ⚡ Fun fact **I bat with earphones on**
 
