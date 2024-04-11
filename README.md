@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luv</h1>
 <h3 align="center">Web dev explorer with a love for music, sports, and diving into Web3.</h3>
 
-- 🌱 I’m currently learning **React & Go**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **luv.gupta512@gmail.com**
 
